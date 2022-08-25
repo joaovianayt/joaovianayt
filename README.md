@@ -1,12 +1,10 @@
-### Olá! Seja Bem Vindo ao meu Perfil. 👋
-
-Here are some ideas to get you started:
+### Seja Bem Vindo ao meu Perfil. 👋
 
 - 🔭 Atualmente Trabalho com Marketing e Divulgação
 - 🌱 Estudando HTML, CSS E PYTHON
 - 😄 Pronomes: Ele/Dele
 
-## Olá, Eu sou o João Viana, Criador de Conteûdo de Tecnologia!
+## Olá, Me chamo João Viana, Sou Criador de Conteúdo de Tecnologia!
 <div align="center">
   <a href="https://github.com/joaovianayt">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovianayt&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
