@@ -1,7 +1,7 @@
 ### Seja Bem Vindo ao meu Perfil. 👋
 
 - 🔭 Atualmente Trabalho com Marketing e Divulgação
-- 🌱 Estudando HTML, CSS E PYTHON
+- 🌱 Estudando HTML, CSS, PYTHON e JavaScript
 - 😄 Pronomes: Ele/Dele
 
 ## Olá, Me chamo João Viana, Sou Criador de Conteúdo de Tecnologia!
